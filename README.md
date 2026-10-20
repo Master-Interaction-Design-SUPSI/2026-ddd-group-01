@@ -98,7 +98,7 @@ Your text becomes one continuous, justified passage: line breaks and blank lines
 | Keyword or key concept | `**Data centres**` | Sans serif bold. |
 | Data source | `[Dataset XX](https://example.org/data)` | Sans serif, underlined; opens in a new tab. Use links for data sources; ordinary words have no underline formatting option. |
 | Note | `[[a detail\|A short explanation]]` | `{✶ A short explanation}`, open; the label folds it. |
-| Citation | `[[Author, XXXX. Title\|https://example.org/book\|type=bibliography]]` | Serif, black, underlined: `(■ Author, XXXX. Title)`. |
+| Citation | `[[Author, XX. Title\|https://example.org/book\|type=bibliography]]` | Serif, black, underlined: `(■ Author, XX. Title)`. |
 | Media | `[[interview]]` | The image, audio or video named in `media.csv`. |
 | Color | `{crimson\|a key finding}` | Colored text. Any CSS color works, e.g. `{#116964\|…}`. |
 
@@ -131,4 +131,4 @@ The course [media and sources worksheet](https://docs.google.com/spreadsheets/d/
 - Browsers may refuse automatic playback or sound, and playback depends on the file's encoding. If sound is blocked, choose **Enable sound**, then hover again. The source link always works. Check your entry on the site.
 
 
-Nothing is published until the commits are on GitHub. After the last one, look at your entry on the site (§6).
+Nothing is published until the commits are on GitHub. You can check your last entry from the top right corner of your abstract on the site (§6).
